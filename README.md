@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 19 y/o boy who loves computers and softwares!
+A 19 y/o BCA student who loves computers and softwares!
 
 
 ## 🌐 Socials:
