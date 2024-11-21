@@ -56,7 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aadithyancodes/aadithyancodes/output/snake.svg" alt="Snake animation" />
 
 ###
 
