@@ -42,8 +42,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aadithyancodes/count.svg?"  />
-</div>
 
-###
