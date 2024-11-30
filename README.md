@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Aadithyan from India<br><br>- 🔭 I’m working as a student.<br>- 📚 I'm currently learning c language.<br>- ⚡ In my free time I code.</p>
+<p align="left">I'm Aadithyan S from India<br><br>- 🔭 I’m working as a student.<br>- 📚 I'm currently learning c language.<br>- ⚡ In my free time I code.</p>
 
 ###
 
