@@ -1,8 +1,10 @@
 <h1 align="left">👋 Hi, I'm Aadithyan!</h1>
 
-
-
-<p align="left">👩🏻‍🎓 Studying BCA @ <u>MG university</u>.<br>👨‍💻 Student, dev.<br>☕ Turning coffee into code 💻.<br>🚀 Building, learning, exploring.<br>🌏 Anime + travel.</p>
+<p>
+🎓 CS undergrad.  <br>
+💻 Learning to build cool things with code. <br>  
+🌱 Exploring tech, anime, and life. 
+</p>
 
 ###
 
