@@ -24,7 +24,7 @@
 
 <p>
 🔨 Currently building my first JavaScript projects as part of the FreeCodeCamp Full Stack curriculum<br>
-🌐 <a href="aadithyancodes.vercel.app">Personal Website</a> — My starting point, built with HTML & CSS
+🌐 <a href="https://aadithyancodes.vercel.app">Personal Website</a> — My starting point, built with HTML & CSS
 </p>
 
 <h2 align="left">📈 My Coding Activity</h2>
@@ -34,8 +34,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadithyancodes/aadithyancodes/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aadithyancodes/aadithyancodes/output/pacman-contribution-graph.svg">
 </picture>
-
----
 
 <h2 align="left">📫 Connect with Me</h2>
 
