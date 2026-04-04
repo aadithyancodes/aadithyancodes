@@ -4,7 +4,7 @@
 🎓 BCA Final Year | Aspiring Full Stack Developer <br>
 💻 Currently learning JavaScript and React <br>
 🌱 Building projects focused on full stack web development <br>
-📍 Kerala, India → Open to relocate to Bangalore
+📍 Kerala, India → Open to relocate anywhere in India
 </p>
 
 ---
