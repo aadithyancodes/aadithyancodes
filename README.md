@@ -7,7 +7,6 @@
 📍 Kerala, India → Open to relocate anywhere in India
 </p>
 
----
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
@@ -21,16 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
----
-
 <h2 align="left">🚀 Projects</h2>
 
 <p>
 🔨 Currently building my first JavaScript projects as part of the FreeCodeCamp Full Stack curriculum<br>
 🌐 <a href="aadithyancodes.vercel.app">Personal Website</a> — My starting point, built with HTML & CSS
 </p>
-
----
 
 <h2 align="left">📈 My Coding Activity</h2>
 
